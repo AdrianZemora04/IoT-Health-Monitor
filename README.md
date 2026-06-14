@@ -6,6 +6,12 @@ A wearable health monitoring system for tracking patient vitals, developed as an
 
 ---
 
+## System Flow
+
+![System Flow](docs/System-Flow.png)
+
+---
+
 ## System Architecture
 
 ```
@@ -167,6 +173,8 @@ IoT-Health-Monitor/
 │       └── src/pages/
 ├── aplicatie-mobil/
 │   └── app/(tabs)/
+├── docs/
+│   └── System-Flow.png
 └── README.md
 ```
 
@@ -177,3 +185,7 @@ IoT-Health-Monitor/
 `Node.js` `Express` `MongoDB` `MQTT` `React 19` `Vite` `React Native` `Expo` `TypeScript` `ESP32` `Arduino IDE` `Render.com` `HiveMQ`
 
 ---
+
+## Authors
+
+- Adrian-Ștefan Zemora
